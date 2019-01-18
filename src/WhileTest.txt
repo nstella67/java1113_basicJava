@@ -1,0 +1,34 @@
+//1
+while(3<=5) {JAVA a=3+1}
+while(4<=5) {JAVA a=4+1}
+while(5<=5) {JAVA a=5+1}
+while(6<=5)
+
+
+//2
+{JSP  b=3+1} while(4<=5)
+{JSP  b=4+1} while(5<=5)
+{JSP  b=5+1} while(6<=5)
+
+
+//3
+(1)  while(3<1)  → 빠져나온다
+(2)  do{JSP  b=3+1} while(4<1)  → 빠져나온다. 조건이랑 상관없이 한 번 실행된다
+
+
+//4
+while(true) {JAVA a=1+1 if(2==3)}
+while(true) {JAVA a=2+1 if(3==3)}
+while(true) {JAVA a=3+1 if(4==3) break;} → 빠져나온다
+
+
+//문1)
+a=1, hap=0
+hap=hap+a=0+1
+a=2
+hap=1+2
+a=3
+hap=1+2+3,,,
+
+
+
