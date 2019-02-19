@@ -44,7 +44,7 @@ public class FileTest {
 				System.out.println("확장명 : "+ext);
 				
 				//파일삭제
-				//file.delete();	
+				//file.delete();
 				
 			}else {
 				System.out.println("파일 없어요!!");
